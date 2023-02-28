@@ -1,1 +1,1 @@
-Here, there are 5 homeworks of the course Artificial Intelligence for Cognitive Science. The homeworks include search problems, constrain satisfaction problem, classifiers, bayes nets, n-gram model, minimax and alpha-beta pruning algorithms.
+Here, there are 5 homeworks of the course "Artificial Intelligence for Cognitive Science". The homeworks include search problems, constrain satisfaction problem, classifiers, bayes nets, n-gram model, minimax and alpha-beta pruning algorithms.
